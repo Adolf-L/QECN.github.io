@@ -19,8 +19,8 @@ h2 {
   margin-top: 15px;
   margin-bottom: 10px;
   color: #34a5da;
-  font-size: 32px;
-  line-height: 44px;
+  font-size: 20px;
+  line-height: 30px;
   font-weight: 400;
 }
 
@@ -5129,6 +5129,7 @@ blockquote {
   .text-20 {
     display: block;
     text-align: left;
+    visibility: hidden;
   }
   .text-20.text-20-60 {
     font-size: 16px;
@@ -5188,9 +5189,9 @@ blockquote {
     text-align: left;
   }
   .c-card-list-content-inside.text-16-60 {
-    display: none;
+    /* display: none; */
     opacity: 0.79;
-    color: rgba(39, 39, 39, 0.57);
+    color: #35da61;
     font-size: 15px;
     text-align: left;
   }
@@ -5883,7 +5884,7 @@ blockquote {
   }
   .heading-20 {
     color: #fff;
-    font-size: 26px;
+    font-size: 22px;
     line-height: 20px;
   }
   .heading-21 {
@@ -5891,7 +5892,7 @@ blockquote {
   }
   .new-add-color {
     color: #fff;
-    font-size: 26px;
+    font-size: 22px;
     line-height: 20px;
   }
   .heading-22 {
