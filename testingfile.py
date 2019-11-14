@@ -27,7 +27,7 @@ def get_replace_content(picName, originContentGroup):
     originContent = originContentGroup.group()
     print(originContent)
     # 字符串写不下换行 \ () 两种方式。 字符串拼接，格式化方式
-    htmlstrline1 = '<source type=images/webp %s' % originContent[5:].replace('.png','.webp')
+    htmlstrline1 = '<source type=images/webp %s' % originContent[5:].replace('.webp','.webp')
     htmlstrline2 = '<source type=images/png %s' % originContent[5:]
     htmlstrline3 = originContent
     htmlstring = '<picture>'+htmlstrline1+htmlstrline2+htmlstrline3+'</picture>'
@@ -44,10 +44,10 @@ def get_all_match_images_nosuffix():
     setImageNames = set(listImageNames)#通过集合转换重复的图片名称。
     return setImageNames
 
-#获取 images 文件夹下面图片只含有 .png 格式
+#获取 images 文件夹下面图片只含有 .webp 格式
 def get_all_match_images_png():
     noSuffixImages = get_all_match_images_nosuffix()
-    pngImages = map(lambda x: x+'.png', noSuffixImages)
+    pngImages = map(lambda x: x+'.webp', noSuffixImages)
     listPngImages = list(pngImages)
     listPngImages.sort() #排序操作是本身
     return listPngImages

@@ -1045,19 +1045,19 @@ blockquote {
 }
 
 .content1-image.content1-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .content1-image.content1-image1 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .content1-image.content1-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1085,7 +1085,7 @@ blockquote {
   height: 420px;
   margin-bottom: 20px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -1093,7 +1093,7 @@ blockquote {
 .feature1-image2 {
   height: 120px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0% 50%;
   background-size: contain;
 }
@@ -1101,7 +1101,7 @@ blockquote {
 .feature1-image3 {
   height: 420px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 0%;
   background-size: auto;
 }
@@ -1131,7 +1131,7 @@ blockquote {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 0%;
   background-size: 450px;
 }
@@ -1189,168 +1189,168 @@ blockquote {
   height: 125px;
   margin-bottom: 20px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.team1-image7 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.team1-image8 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .team1-image.team1-image4 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.team1-image5 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0px 0px;
   background-size: 120px;
 }
 
 .team1-image.team1-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.team1-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.team1-image1 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.team1-image6 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-size: 120px;
 }
 
 .team1-image.tao {
   height: 123px;
-  background-image: url('../images/qe-tao.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-tao.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-tao.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-tao.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.vin {
   height: 123px;
-  background-image: url('../images/qe-vin.png'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-vin.png'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-vin.webp'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-vin.webp'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px, 0px 0px;
   background-size: 125px, 125px, auto;
 }
 
 .team1-image.sean {
   height: 123px;
-  background-image: url('../images/qe-sean.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
-  background-image: url('../images/qe-sean.png'), linear-gradient(180deg, transparent, transparent);
+  background-image: url('../images/qe-sean.webp'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+  background-image: url('../images/qe-sean.webp'), linear-gradient(180deg, transparent, transparent);
 }
 
 .team1-image.rui {
   height: 123px;
-  background-image: url('../images/qe-rui.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-rui.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-rui.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-rui.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.ivan {
   height: 123px;
-  background-image: url('../images/qe-ivan.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-ivan.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-ivan.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-ivan.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.m7 {
   height: 123px;
-  background-image: url('../images/qe-m7.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-m7.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-m7.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-m7.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.juan {
   height: 123px;
-  background-image: url('../images/qe-juan.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-juan.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-juan.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-juan.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.ning {
   height: 123px;
-  background-image: url('../images/qe-ning.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-ning.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-ning.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-ning.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.chris {
   height: 123px;
-  background-image: url('../images/qe-chris.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-chris.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-chris.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-chris.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.jing {
   height: 123px;
-  background-image: url('../images/qe-jinger.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-jinger.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-jinger.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-jinger.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.richard {
   height: 123px;
-  background-image: url('../images/tom-head.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/tom-head.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/tom-head.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/tom-head.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.terry {
   height: 123px;
-  background-image: url('../images/qe-terry.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-terry.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-terry.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-terry.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.liang {
   height: 123px;
-  background-image: url('../images/qe-liang.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-liang.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-liang.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-liang.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.lexy {
   height: 123px;
-  background-image: url('../images/qe-lexy.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/qe-lexy.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/qe-lexy.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/qe-lexy.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
 
 .team1-image.oxford {
   height: 123px;
-  background-image: url('../images/eve-head.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
-  background-image: url('../images/eve-head.png'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
+  background-image: url('../images/eve-head.webp'), -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.1)), to(rgba(17, 18, 18, 0.1)));
+  background-image: url('../images/eve-head.webp'), linear-gradient(180deg, rgba(17, 18, 18, 0.1), rgba(17, 18, 18, 0.1));
   background-position: 0px 0px, 0px 0px;
   background-size: 125px, auto;
 }
@@ -1388,8 +1388,8 @@ blockquote {
 }
 
 .cta1-image {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.75)), to(rgba(17, 18, 18, 0.75))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-  background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.75), rgba(17, 18, 18, 0.75)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.75)), to(rgba(17, 18, 18, 0.75))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+  background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.75), rgba(17, 18, 18, 0.75)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -1446,7 +1446,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 60% 50%;
   background-size: 980px;
   background-repeat: no-repeat;
@@ -1545,41 +1545,41 @@ blockquote {
   height: 340px;
   margin-bottom: 30px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .content4-image.content4-image5 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image7 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image6 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image8 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image4 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-image.content4-image9 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content4-items {
@@ -1608,7 +1608,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: 980px;
   background-repeat: no-repeat;
@@ -1639,27 +1639,27 @@ blockquote {
   height: 460px;
   margin-bottom: 20px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .content6-pic.content6-image1 {
   height: 320px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content6-pic.content6-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content6-pic.content6-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .content6-pic.content6-image4 {
   height: 320px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .testimonial2-col {
@@ -1714,7 +1714,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: 940px;
   background-repeat: no-repeat;
@@ -1730,17 +1730,17 @@ blockquote {
   height: 60px;
   margin-right: 20px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .testimonial1-pic.testimonial1-pic3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .testimonial1-pic.testimonial1-pic2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .testimonial1-item {
@@ -1847,14 +1847,14 @@ blockquote {
 .blog1-article-cover.blog1-article-cover-1 {
   width: 100%;
   margin-top: 20px;
-  background-image: url('../images/Screen-Shot-2019-04-12-at-8.20.57-PM.png');
+  background-image: url('../images/Screen-Shot-2019-04-12-at-8.20.57-PM.webp');
   background-position: 50% 50%;
   background-size: 511px;
 }
 
 .blog1-article-cover.blog1-article-cover-2 {
   margin-bottom: 20px;
-  background-image: url('../images/Screen-Shot-2019-04-12-at-8.25.44-PM.png');
+  background-image: url('../images/Screen-Shot-2019-04-12-at-8.25.44-PM.webp');
   background-position: 50% 50%;
   background-size: 573px;
 }
@@ -2160,8 +2160,8 @@ blockquote {
 
 .cta2.cta2-dark.cta2-image {
   border: 0px none transparent;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.6)), to(rgba(17, 18, 18, 0.6))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-  background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.6), rgba(17, 18, 18, 0.6)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.6)), to(rgba(17, 18, 18, 0.6))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+  background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.6), rgba(17, 18, 18, 0.6)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -2368,17 +2368,17 @@ blockquote {
   height: 60px;
   margin-bottom: 25px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .testimonial5-image.testimonial5-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .testimonial5-image.testimonial5-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .testimonial5-content-wrap {
@@ -2532,7 +2532,7 @@ blockquote {
   margin-right: -20px;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2596,7 +2596,7 @@ blockquote {
 }
 
 .blog2-article-cover.blog2-article-content1 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2657,17 +2657,17 @@ blockquote {
   width: 80px;
   height: 80px;
   border-radius: 100%;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: 158px;
 }
 
 .team2-profile-pic.team2-profile-pic-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .team2-profile-pic.team2-profile-pic-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .blog2-articles-wrap {
@@ -2689,19 +2689,19 @@ blockquote {
 }
 
 .blog5-article-cover.blog5-article-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .blog5-article-cover.blog5-article-image1 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .blog5-article-cover.blog5-article-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2719,7 +2719,7 @@ blockquote {
 }
 
 .blog3-card.blog3-card2-content {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
@@ -2727,35 +2727,35 @@ blockquote {
 
 .blog3-card.blog3-card1-content {
   position: relative;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
 }
 
 .blog3-card.blog3-card4-content {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #111212;
 }
 
 .blog3-card.blog3-card3-content {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #111212;
 }
 
 .blog3-card.blog3-card5-content {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #111212;
 }
 
 .blog3-card.blog3-card6-content {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
@@ -2765,17 +2765,17 @@ blockquote {
   height: 230px;
   margin-bottom: 25px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .blog4-article-image.blog4-article-content2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .blog4-article-image.blog4-article-content3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .blog5-articles-wrapper {
@@ -2865,13 +2865,13 @@ blockquote {
   width: 120px;
   height: 120px;
   border-radius: 100%;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: 158px;
 }
 
 .team3-avatar.team3-avatar-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .team2-profilecard-wrapper {
@@ -3148,7 +3148,7 @@ blockquote {
 .products1-image-wrap {
   height: 460px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3201,25 +3201,25 @@ blockquote {
 }
 
 .products2-image.products2-image1 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .products2-image.products2-image2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .products2-image.products2-image3 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .products2-image.products2-image4 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3244,7 +3244,7 @@ blockquote {
   height: 460px;
   margin-bottom: 15px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   direction: ltr;
@@ -3253,7 +3253,7 @@ blockquote {
 .products3-small-image-wrap {
   height: 120px;
   border-radius: 8px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   background-position: 50% 50%;
   background-size: cover;
   direction: ltr;
@@ -3261,17 +3261,17 @@ blockquote {
 
 .products3-small-image-wrap.products3-small-image1 {
   height: 140px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .products3-small-image-wrap.products3-small-image2 {
   height: 140px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .products3-small-image-wrap.products3-small-image3 {
   height: 140px;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
 }
 
 .products3-content-wrap {
@@ -3557,7 +3557,7 @@ blockquote {
   -ms-flex-pack: start;
   justify-content: flex-start;
   background-color: transparent;
-  background-image: url('../images/wechat-logo-p-130x130q80_1.png');
+  background-image: url('../images/wechat-logo-p-130x130q80_1.webp');
   background-position: 0px 0px;
   background-size: 40px 40px;
   color: transparent;
@@ -3731,7 +3731,7 @@ blockquote {
 }
 
 .contact-bigtitle-white {
-  color: #fff;
+  color: #19bebf;
 }
 
 .pr-bigtitle3-white {
@@ -4246,8 +4246,8 @@ blockquote {
     width: auto;
   }
   .hero2-dark-alt2 {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, 587px;
     background-repeat: repeat, no-repeat;
@@ -4285,8 +4285,8 @@ blockquote {
     text-align: center;
   }
   .hero2-dark {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
     background-position: 0px 0px, -280px 50%;
     background-size: auto, 940px;
     background-repeat: repeat, no-repeat;
@@ -4952,13 +4952,13 @@ blockquote {
     background-position: 0px 0px, 100% 50%;
   }
   .hero2-dark-alt2 {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(null), to(null)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-    background-image: linear-gradient(180deg, null, null), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(null), to(null)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+    background-image: linear-gradient(180deg, null, null), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
     background-position: 0px 0px, 50% 50%;
   }
   .hero2-dark {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
     background-position: 0px 0px, 100% 50%;
   }
   .testimonial1-item {
@@ -4995,7 +4995,7 @@ blockquote {
     width: 60%;
   }
   .blog2-article-cover.blog2-article-content1 {
-    background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
   }
   .team2-profile-card {
     padding: 30px 40px;
@@ -5252,8 +5252,8 @@ blockquote {
     color: #fff;
   }
   .hero2-dark {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 18, 18, 0.4)), to(rgba(17, 18, 18, 0.4))), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
+    background-image: linear-gradient(180deg, rgba(17, 18, 18, 0.4), rgba(17, 18, 18, 0.4)), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.webp');
     background-position: 0px 0px, 80% 50%;
   }
   .feature4-text-wrap {
