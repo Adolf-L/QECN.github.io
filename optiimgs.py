@@ -97,7 +97,7 @@ def opti_a_htmlfile(aHtmlFilePath):
                     replaceContent = get_replace_content(img, originContent)
                     newContentLine = re.sub(imgPatternStr, relaceContent, line)
                     data += newContentLine
-        data += line
+            data += line
         f.close()
 
     with open(aHtmlFilePath, 'r+') as f: #从新打开文件指针回到原始点
