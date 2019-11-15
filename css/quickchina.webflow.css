@@ -7,6 +7,10 @@ body {
   font-weight: 400;
 }
 
+#bigluo2 {
+ color:grey;
+}
+
 h1 {
   margin-top: 20px;
   margin-bottom: 10px;
@@ -19,7 +23,7 @@ h1 {
 h2 {
   margin-top: 15px;
   margin-bottom: 10px;
-  color: #34a5da;
+  color: #32a5dc;
   font-size: 32px;
   line-height: 44px;
   font-weight: 400;
@@ -69,7 +73,7 @@ a {
   transition: color 400ms ease, opacity 400ms ease, -webkit-transform 400ms ease;
   transition: color 400ms ease, transform 400ms ease, opacity 400ms ease;
   transition: color 400ms ease, transform 400ms ease, opacity 400ms ease, -webkit-transform 400ms ease;
-  color: #1991eb;
+  color: #32a5dc;
   text-decoration: none;
 }
 
@@ -441,10 +445,10 @@ blockquote {
   width: 100%;
   margin: 25px auto;
   padding: 15px 30px;
-  border: 1px dashed #1991eb;
+  border: 1px dashed #32a5dc;
   background-color: #f4f9fe;
   opacity: 1;
-  color: #1991eb;
+  color: #32a5dc;
   text-align: center;
 }
 
@@ -495,7 +499,7 @@ blockquote {
   margin-bottom: 10px;
   padding: 11px 25px;
   border-radius: 4px;
-  background-color: #1991eb;
+  background-color: #32a5dc;
   -webkit-transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, -webkit-transform 400ms ease;
   transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, -webkit-transform 400ms ease;
   transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, transform 400ms ease;
@@ -676,7 +680,7 @@ blockquote {
   padding: 16px 35px;
   float: none;
   border-radius: 4px;
-  background-color: #1991eb;
+  background-color: #32a5dc;
   -webkit-transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, -webkit-transform 400ms ease;
   transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, -webkit-transform 400ms ease;
   transition: color 200ms ease, box-shadow 200ms ease, background-color 200ms ease, transform 400ms ease;
@@ -760,7 +764,7 @@ blockquote {
   display: inline-block;
   padding: 4px 10px;
   border-radius: 4px;
-  background-color: #1991eb;
+  background-color: #32a5dc;
 }
 
 .label.label-grey {
@@ -1157,7 +1161,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1991eb;
+  background-color: #32a5dc;
 }
 
 .team1-people-row {
@@ -2067,7 +2071,7 @@ blockquote {
 .c-card-price.cta3-item-wrap-dark.cta3-recommended-option-dark {
   padding-top: 30px;
   border-width: 2px;
-  border-color: #1991eb;
+  border-color: #32a5dc;
 }
 
 .c-card-price.cta3-recommended-option {
@@ -2076,7 +2080,7 @@ blockquote {
   margin-left: -10px;
   padding-top: 30px;
   border-width: 2px;
-  border-color: #1991eb;
+  border-color: #32a5dc;
 }
 
 .cta3-item-points-wrapper {
@@ -2297,7 +2301,7 @@ blockquote {
 }
 
 .form1-input:focus {
-  border-color: #1991eb;
+  border-color: #32a5dc;
 }
 
 .form1-input.form1-input-dark {
@@ -2545,7 +2549,7 @@ blockquote {
 
 .form2-success-message-text {
   margin-top: 20px;
-  color: #1991eb;
+  color: #32a5dc;
   font-size: 16px;
   line-height: 24px;
 }
@@ -2963,7 +2967,7 @@ blockquote {
 }
 
 .home-category-linkitem:hover {
-  border-color: #1991eb;
+  border-color: #32a5dc;
   box-shadow: 0 1px 8px 0 rgba(17, 18, 18, 0.15);
 }
 
@@ -3620,7 +3624,7 @@ blockquote {
 
 .home-subtitle-blue {
   padding: 10px;
-  color: #1991eb;
+  color: #32a5dc;
   font-size: 25px;
 }
 
@@ -3732,7 +3736,7 @@ blockquote {
 }
 
 .contact-bigtitle-white {
-  color: #19bebf;
+  color: #32a5dc;
 }
 
 .pr-bigtitle3-white {
@@ -5200,7 +5204,7 @@ blockquote {
   .c-card-list-content-inside.text-16-60 {
     /* display: none; */
     opacity: 0.79;
-    color: #19bebf;
+    color: #32a5dc;
     font-size: 15px;
     text-align: left;
   }
@@ -5590,7 +5594,7 @@ blockquote {
   .home-big-title-white {
     display: block;
     margin-top: 32px;
-    color: #19bebf;
+    color: #32a5dc;
     font-size: 20px;
     line-height: 28px;
   }
@@ -5622,7 +5626,7 @@ blockquote {
     color: #fff;
   }
   .home-subtitle-blue {
-    color: #1991eb;
+    color: #32a5dc;
     font-size: 16px;
     line-height: 25px;
   }
@@ -5699,14 +5703,14 @@ blockquote {
     text-align: left;
   }
   .home-subtitle-black.m {
-    color: #1991eb;
+    color: #32a5dc;
     font-size: 16px;
     line-height: 23px;
     text-align: left;
   }
   .home-subtitle-black.whitecolor {
     padding: 10px;
-    color: #fff;
+    color: rgb(163, 163, 163);
   }
   .home-big-title-black {
     font-size: 25px;
