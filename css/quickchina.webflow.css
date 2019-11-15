@@ -3737,6 +3737,7 @@ blockquote {
 
 .contact-bigtitle-white {
   color: #32a5dc;
+  font-size: 20px;
 }
 
 .pr-bigtitle3-white {
@@ -5966,7 +5967,7 @@ blockquote {
   }
   .contact-bigtitle4-black {
     color: #fff;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 30px;
   }
   .brand-info {
