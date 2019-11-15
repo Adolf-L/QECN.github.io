@@ -15,12 +15,13 @@ h1 {
   font-weight: 400;
 }
 
+
 h2 {
   margin-top: 15px;
   margin-bottom: 10px;
   color: #34a5da;
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 32px;
+  line-height: 44px;
   font-weight: 400;
 }
 
@@ -3899,8 +3900,8 @@ blockquote {
     text-align: center;
   }
   ._2-col {
-    width: 100%;
-    margin-right: 0px;
+    /* width: 100%; */
+    /* margin-right: 0px; */
     margin-bottom: 20px;
   }
   ._4-col {
@@ -5020,6 +5021,8 @@ blockquote {
   }
 }
 
+
+/* ========================= 适配手机端的 CSS ==============================*/
 @media (max-width: 479px) {
   ._6-col._6-col-last {
     -webkit-box-flex: 0;
@@ -5115,6 +5118,12 @@ blockquote {
     display: block;
     color: #000;
   }
+
+  .Ttagline {
+    display: block;
+    columns: #000;
+  }
+
   .tagline.addcolor {
     color: #272727;
   }
@@ -5127,9 +5136,9 @@ blockquote {
     color: transparent;
   }
   .text-20 {
-    display: block;
+    display: none;
     text-align: left;
-    visibility: hidden;
+    /* visibility: hidden; */
   }
   .text-20.text-20-60 {
     font-size: 16px;
@@ -5191,7 +5200,7 @@ blockquote {
   .c-card-list-content-inside.text-16-60 {
     /* display: none; */
     opacity: 0.79;
-    color: #35da61;
+    color: #19bebf;
     font-size: 15px;
     text-align: left;
   }
@@ -5581,7 +5590,7 @@ blockquote {
   .home-big-title-white {
     display: block;
     margin-top: 32px;
-    color: #fff;
+    color: #19bebf;
     font-size: 20px;
     line-height: 28px;
   }
@@ -5884,7 +5893,7 @@ blockquote {
   }
   .heading-20 {
     color: #fff;
-    font-size: 22px;
+    font-size: 26px;
     line-height: 20px;
   }
   .heading-21 {
@@ -5892,7 +5901,7 @@ blockquote {
   }
   .new-add-color {
     color: #fff;
-    font-size: 22px;
+    font-size: 26px;
     line-height: 20px;
   }
   .heading-22 {
