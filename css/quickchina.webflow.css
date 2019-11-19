@@ -5492,8 +5492,8 @@ blockquote {
     text-align: left;
   }
   .image-4 {
-    width: 150px;
-    height: 200px;
+    width: 300px;
+    height: 400px;
     background-color: #000;
     opacity: 1;
   }
@@ -5501,10 +5501,10 @@ blockquote {
     width: 150px;
   }
   .image-4.mac-screen.leftmac {
-    display: none;
+    /* display: none; */
   }
   .image-5 {
-    display: none;
+    /* display: none; */
   }
   .list-2.text-16.text-16-60 {
     width: 100%;
@@ -5528,7 +5528,7 @@ blockquote {
     text-align: center;
   }
   .div-block-8 {
-    display: none;
+    /* display: none; */
   }
   .image-7 {
     text-align: center;
@@ -5839,7 +5839,7 @@ blockquote {
     color: #fff;
   }
   .ad-big-image {
-    display: none;
+    /* display: none; */
     margin-bottom: -20px;
   }
   .image-16 {
@@ -5926,7 +5926,7 @@ blockquote {
     line-height: 30px;
   }
   .image-18 {
-    display: none;
+    /* display: none; */
   }
   .pr-bigtitle-black {
     color: #111212;
@@ -5934,7 +5934,7 @@ blockquote {
     line-height: 30px;
   }
   .image-19 {
-    display: none;
+    /* display: none; */
   }
   .pr-bigtitle-white {
     padding-right: 20px;

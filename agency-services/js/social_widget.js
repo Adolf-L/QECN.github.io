@@ -40,7 +40,7 @@
 	QE_iframe.setAttribute('width','100%');
 	QE_iframe.setAttribute('height','100%');
 	QE_iframe.setAttribute('src',QE_iframeSrc);
-	console.log(QE_iframeSrc);
+	// //console.log(QE_iframeSrc);
 
 	/* 灏唅frame 鎻掑叆 div 瀹瑰櫒 */
 	QE_obox.appendChild(QE_iframe);
@@ -77,7 +77,7 @@ window.onload = function(){
 	// 寰崥鍏抽棴鎸夐挳鐐瑰嚮
 	document.querySelectorAll('.weibo-close')[0].onclick = function(){
 		timer01 = setInterval(function(){YidongR()},1);
-		console.log(marginR);
+		//console.log(marginR);
 	}
 	/* 鍚戝彸绉诲姩浜嬩欢 */
 	var YidongR = function(){
@@ -110,7 +110,7 @@ window.onload = function(){
 		} else { 
 			document.getElementById('QE-fix').style.display = 'none';		
 		} 
-		console.log('t:'+t);
+		//console.log('t:'+t);
 		// var HH = document.body.offsetHeight ;
 		// var hh = window.innerHeight || document.documentElement.clientHeight ;
 
