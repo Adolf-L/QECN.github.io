@@ -85,10 +85,10 @@
   </div>
   <div id="Features" class="section">
     <div class="d-d-wrap">
-      <div class="_5-col">
+      <div id="A" class="_5-col">
         <div class="div-block"><img src="../images/pr-body.webp" width="182" alt="" class="image-19"></div>
       </div>
-      <div class="_7-col _7-col-last">
+      <div id="B" class="_7-col _7-col-last">
         <div class="feature3-text-wrapper">
           <h2 class="pr-bigtitle2-black">搜索品牌关键字，从搜索结果首页获得正面内容<br></h2>
           <p class="home-subtitle-black whitecolor">我们会做搜索引擎优化，在国家媒体渠道、互联网门户网站和本土的新闻网站上开展战略性的公关活动，建立良好的声誉，消除相关的负面新闻和评论。<br>‍<br>在新闻媒体上发布正面的公关内容与百度的算法密切相关。因为这将会使负面文章推离搜索结果首页，从而在搜索品牌关键词时呈现的都是正面内容，进一步提升品牌形象。</p>
@@ -225,6 +225,10 @@
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="../js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-
+  <script>
+    if(navigator.userAgent.match(/mobile/i)) {
+        $(document).ready(function(){$("#A").insertAfter("#B");})
+      }
+  </script>
 </body>
 </html>

@@ -115,10 +115,10 @@
   </div>
   <div class="section">
     <div class="d-d-wrap">
-      <div class="_5-col">
+      <div id="A" class="_5-col">
         <div class="div-block"><img src="../images/wechat-app-2.webp" width="234" alt="" class="image-5"></div>
       </div>
-      <div class="_7-col _7-col-last">
+      <div id="B" class="_7-col _7-col-last">
         <div class="feature3-text-wrapper">
           <h2 class="heading-20">需要怎么做</h2>
           <p class="home-subtitle-black whitecolor">可以在中国互联网上访问。中国的网络防火墙可能会阻止中国网民访问贵品牌的您官方网站，或是减慢访问速度，加大访问难度。因此我们将为您在中国互联网上建立一个高性能，以移动端为主的官网，把您贵品牌的核心内容传达给中国的目标受众。具体过程如下:</p>
@@ -232,6 +232,10 @@
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="../js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-
+  <script>
+    if(navigator.userAgent.match(/mobile/i)) {
+        $(document).ready(function(){$("#A").insertAfter("#B");})
+      }
+  </script>
 </body>
 </html>

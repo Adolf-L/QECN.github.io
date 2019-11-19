@@ -85,10 +85,10 @@
   </div>
   <div class="section">
     <div class="d-d-wrap">
-      <div class="_5-col">
+      <div id="A" class="_5-col">
         <div class="ad-big-image"><img src="../images/top-serp.webp" width="100" alt="" class="image-5"></div>
       </div>
-      <div class="_7-col _7-col-last">
+      <div id="B" class="_7-col _7-col-last">
         <div class="feature3-text-wrapper">
           <h2 class="home-big-title-black whitecolor">搜索品牌关键字，获得积极的首页搜索呈现</h2>
           <p class="c-sub-header">百度作为中国最大的搜索引擎，占据了中国搜索引擎市场73%以上的份额。大多数网民都通过百度了解他们比较陌生的品牌或产品，而首页搜索呈现对消费决策起着决定性的作用。一个出色的百度首页搜索结果可以帮助品牌提升知名度，树立良好形象，潜移默化影响潜在客户的最终决策。</p>
@@ -230,6 +230,10 @@
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="../js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-
+  <script>
+    if(navigator.userAgent.match(/mobile/i)) {
+        $(document).ready(function(){$("#A").insertAfter("#B");})
+      }
+  </script>
 </body>
 </html>

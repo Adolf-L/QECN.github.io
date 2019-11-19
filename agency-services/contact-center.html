@@ -85,8 +85,8 @@
   </div>
   <div class="section">
     <div class="d-d-wrap">
-      <div class="_5-col"><img id= "bigluo" src="../images/weibo-dm.webp" width="308.5" srcset="../images/weibo-dm-p-500.webp 500w, ../images/weibo-dm.webp 617w" sizes="(max-width: 479px) 100vw, 308.5px" alt="" class="ad-big-image"></div>
-      <div class="_7-col _7-col-last">
+      <div id="A" class="_5-col"><img id= "bigluo" src="../images/weibo-dm.webp" width="308.5" srcset="../images/weibo-dm-p-500.webp 500w, ../images/weibo-dm.webp 617w" sizes="(max-width: 479px) 100vw, 308.5px" alt="" class="ad-big-image"></div>
+      <div id="B" class="_7-col _7-col-last">
         <div class="feature3-text-wrapper">
           <h2 class="contact-bigtitle4-black">将您的品牌价值传递给中国本土受众</h2>
           <p class="s-content-font-black whitecolor">我们会帮您对所有社交媒体账号包含抖音、微信、微博、百度论坛、知乎和群聊进行互动运营，回复用户评论和私信。同时我们还会帮您对广告表单收到的潜在客户根据其来源进行分类整理。</p>
@@ -280,6 +280,10 @@
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="../js/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-  
+  <script>
+    if(navigator.userAgent.match(/mobile/i)) {
+        $(document).ready(function(){$("#A").insertAfter("#B");})
+      }
+  </script>
 </body>
 </html>

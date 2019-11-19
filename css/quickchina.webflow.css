@@ -19,6 +19,9 @@ h1 {
   font-weight: 400;
 }
 
+#bigluo4 {
+  font-size: 22px;
+}
 
 h2 {
   margin-top: 15px;
@@ -5082,8 +5085,8 @@ blockquote {
     color: #fff;
   }
   .d-d-wrap.w50-80 {
-    display: none;
-    margin-top: 60px;
+    /* display: none; */
+    /* margin-top: 60px; */
     padding-bottom: 0px;
     grid-auto-columns: 1fr;
     grid-column-gap: 16px;
