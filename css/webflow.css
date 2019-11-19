@@ -56,7 +56,7 @@ body {
 }
 img {
   max-width: 100%;
-  /* vertical-align: middle; */
+  vertical-align: middle;
   display: inline-block;
 }
 #bigluo {
