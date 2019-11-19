@@ -15,9 +15,7 @@ body {
   color: #fff;
 }
 
-#bigluo-img {
-  display: none;
-}
+
 
 h1 {
   margin-top: 20px;
@@ -3768,6 +3766,13 @@ blockquote {
 }
 
 @media (max-width: 991px) {
+  #bigluo_p {
+    display: block;
+  }
+
+  #bigluo-img {
+    display: none;
+  }
 
   #bigluo4 {
     font-size: 22px;
