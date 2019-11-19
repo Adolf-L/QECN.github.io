@@ -11,6 +11,10 @@ body {
  color:grey;
 }
 
+#bigluo5 {
+  color: #fff;
+}
+
 h1 {
   margin-top: 20px;
   margin-bottom: 10px;
@@ -3764,7 +3768,7 @@ blockquote {
   #bigluo4 {
     font-size: 22px;
   }
-  
+
   ._6-col {
     width: 100%;
     margin-right: 0px;
