@@ -19,9 +19,7 @@ h1 {
   font-weight: 400;
 }
 
-#bigluo4 {
-  font-size: 22px;
-}
+
 
 h2 {
   margin-top: 15px;
@@ -3762,6 +3760,11 @@ blockquote {
 }
 
 @media (max-width: 991px) {
+
+  #bigluo4 {
+    font-size: 22px;
+  }
+  
   ._6-col {
     width: 100%;
     margin-right: 0px;
